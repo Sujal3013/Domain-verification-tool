@@ -1,0 +1,19 @@
+# Binaries
+/bin/
+/build/
+
+# Go
+*.exe
+*.test
+vendor/
+pkg/
+logs/
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Logs and env
+logs/
+*.log
+.env
